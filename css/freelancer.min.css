@@ -378,13 +378,13 @@ a:hover {
        background-size: cover;
 }
 .bg-primary2 {
-       background-image: url(about.jpg);
+       background-image: url("https://i.imgur.com/Eipiegy.png");
        background-repeat: no-repeat;
        background-position: center;
        background-size: cover;
 }
 .bg-primary3 {
-       background-image: url(work.jpg);
+       background-image: url("https://i.imgur.com/6GR7AfV.png");
        background-repeat: no-repeat;
        /*background-position: center;*/
        background-size: cover;
@@ -465,4 +465,13 @@ a:hover {
     height: 180px;
     width: 200px;
     border: 2px solid red;
+}
+.founderdiv
+{
+    background-color: blue;
+    padding-bottom: 25px;
+}
+.wework {
+    font-size: 30px;
+    line-height: 3;
 }
